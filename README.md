@@ -1,9 +1,13 @@
 # Procedural-Kaomoji-Shader-SDF
 
-Add a little fun and personalities to the Prototyping Capsules. An afternoon project, testing / improving as I play with it.
+Add a little fun and personalities to the Prototyping Capsules.\
+**An afternoon project, testing / improving as I play with it.** 
+
+Not A Shader Guy. The Stop-Motion Animation Scribbly Eye probably doesn't belong in the same shader file due to branching. \
+Oh well, remove it yourself.
 
 Features:
-- Fully Procedural and Customisabl: L/R Eye & Mouth
+- Fully Procedural and Customisable: L/R Eye & Mouth
 - Add Presets or choose randomly
 - C# or GDScript
 
