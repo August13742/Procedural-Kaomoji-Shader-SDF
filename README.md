@@ -3,12 +3,12 @@
 Add a little fun and personalities to the Prototyping Capsules.\
 **An afternoon project, testing / improving as I play with it.** 
 
-Not A Shader Guy. The Stop-Motion Animation Scribbly Eye probably doesn't belong in the same shader file due to branching. \
-Oh well, remove it yourself.
+![Recording-1771302754](https://github.com/user-attachments/assets/011689a4-6d09-4663-b38a-d2fcb7295f33)
 
 Features:
 - Fully Procedural and Customisable: L/R Eye & Mouth
+- Transition Tween
 - Add Presets or choose randomly
 - C# or GDScript
 
-https://github.com/user-attachments/assets/dd7f536c-3676-4b79-b705-3f347f1f7500
+https://github.com/user-attachments/assets/1f603871-77bb-4964-a83c-74b51de4fb7c
